@@ -4,32 +4,77 @@
         <job name="sparta_crontester" instance="Sparta\CronTester\Cron\Test" method="execute">
             <schedule>* * * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_839" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 8 * * *</schedule>
+        <job name="sparta_crontester_super_035" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 0 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1039" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 10 * * *</schedule>
+        <job name="sparta_crontester_super_135" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 1 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1139" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 11 * * *</schedule>
+        <job name="sparta_crontester_super_235" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 2 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1239" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 12 * * *</schedule>
+        <job name="sparta_crontester_super_335" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 3 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1339" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 13 * * *</schedule>
+        <job name="sparta_crontester_super_435" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 4 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1394" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 14 * * *</schedule>
+        <job name="sparta_crontester_super_535" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 5 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1539" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 15 * * *</schedule>
+        <job name="sparta_crontester_super_635" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 6 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1639" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 16 * * *</schedule>
+        <job name="sparta_crontester_super_735" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 7 * * *</schedule>
         </job>
-        <job name="sparta_crontester_super_1739" instance="Sparta\CronTester\Cron\Test" method="execute">
-            <schedule>39 17 * * *</schedule>
+        <job name="sparta_crontester_super_835" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 8 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_935" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 9 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1035" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 10 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1135" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 11 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1235" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 12 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1335" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 13 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1354" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 14 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1535" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 15 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1635" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 16 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1735" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 17 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1835" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 18 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_1935" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 19 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_2035" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 20 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_2135" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 21 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_2235" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 22 * * *</schedule>
+        </job>
+        <job name="sparta_crontester_super_2335" instance="Sparta\CronTester\Cron\Test" method="execute">
+            <schedule>35 23 * * *</schedule>
         </job>
     </group>
 </config>
