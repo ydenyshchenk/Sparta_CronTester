@@ -4,5 +4,8 @@
         <job name="sparta_crontester" instance="Sparta\CronTester\Cron\Test" method="execute">
             <schedule>* * * * *</schedule>
         </job>
+        <job name="sparta_crontester2" instance="Sparta\CronTester\Cron\Test2" method="execute">
+            <schedule>* * * * *</schedule>
+        </job>
     </group>
 </config>

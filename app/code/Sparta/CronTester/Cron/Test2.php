@@ -2,7 +2,7 @@
 
 namespace Sparta\CronTester\Cron;
 
-class Test
+class Test2
 {
     /**
      * Create Backup
@@ -11,7 +11,7 @@ class Test
      */
     public function execute()
     {
-        sleep(600);
+        sleep(30);
         return $this;
     }
 }
